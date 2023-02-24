@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "576065901925",
+    "project_id": "backoffice-313d3",
+    "storage_bucket": "backoffice-313d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576065901925:android:aa758047b2e7b4d9627d8c",
+        "android_client_info": {
+          "package_name": "com.backoffice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576065901925-poukjcddarreb9g1catv91fle8h7604l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.backoffice",
+            "certificate_hash": "214f188662ed25a59f5ef3f053d15cb1c9c7a6e6"
+          }
+        },
+        {
+          "client_id": "576065901925-57hgi0m4doq764ace0evp93ov3vui1dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoNpoUkeBDVwJm8ksgteOrHo9go_PmuXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576065901925-57hgi0m4doq764ace0evp93ov3vui1dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

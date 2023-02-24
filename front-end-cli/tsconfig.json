@@ -1,0 +1,12 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+    "compilerOptions": {
+      "target": "es5",
+      "sourceMap": true,
+      "noImplicitAny": true,
+  
+      "types": ["webrtc"]
+    },
+    "exclude": ["node_modules"]
+  
+}
