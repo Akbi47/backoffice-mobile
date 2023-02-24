@@ -1,7 +1,8 @@
 # backoffice-mobile
 
 ## Description
-Login page and Admin dashboard page using reactjs, use redux toolkit for authentication when login
+- Folder front-end using expo platform
+- Folder front-end-cli using cli platform
 ## Installation
 
 ```bash
